@@ -1,4 +1,4 @@
-![logo](https://github.com/Aradhana2602/Aradhana2602/blob/main/Simple%20Frame%20Photography%20Studio%20Facebook%20Cover.png)
+
 <h1 align="center">Hi 👋, I'm Aradhana Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
