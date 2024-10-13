@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aradhana2602&label=Profile%20views&color=0e75b6&style=flat" alt="aradhana2602" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aradhana2602" alt="aradhana2602" /></a> </p>
+
 
 - 🌱 I’m currently learning **ReactJs , NextJs**
 
