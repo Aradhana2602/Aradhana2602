@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aradhana Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align = "center" alt="coding" width="400" src="https://in.images.search.yahoo.com/search/images;_ylt=AwrPo6udXwtnKAIAGSe7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=coding+cool+animated+gif&fr2=piv-web&type=E210IN826G0&fr=mcafee#id=3&iurl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FRbDKaczqWovIugyJmW%2Fgiphy.gif&action=click"><br>
+<img align = "center" alt="coding" width="1000" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif"><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aradhana2602&label=Profile%20views&color=0e75b6&style=flat" alt="aradhana2602" /> </p>
 
