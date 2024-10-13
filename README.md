@@ -4,7 +4,7 @@
 
 <img align = "right" alt="coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aradhana2602&label=Profile%20views&color=0e75b6&style=flat" alt="aradhana2602" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aradhana2602&label=Profile%20views&color=0e75b6&style=flat" alt="aradhana2602" /> </p>
 
 
 
