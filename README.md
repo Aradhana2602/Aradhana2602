@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aradhana Kumari</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <img align = "center" alt="coding" height="400" width="1000" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"><br>
 
