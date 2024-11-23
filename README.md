@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aradhana Kumari</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<img align = "center" alt="coding" height="400" width="1000" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"><br>
+
 
 <p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif" alt="aradhana2602" /> </p>
 
