@@ -72,12 +72,10 @@
 ---
 
 <h3 align="center">GitHub Stats</h3>
-<p align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aradhana2602&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF&border_color=FFA500" alt="Top Languages" />
-</p>
-<p align="right">
+  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=aradhana2602&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF&border_color=FFA500" alt="GitHub Stats" />
-</p>
-<p align="center">
+  <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aradhana2602&background=000000&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</p>
+</div>
