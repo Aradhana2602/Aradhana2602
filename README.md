@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 30px;>
+<div align="center" style="font-size: 30px;">
 👋 Hi, I'm Aradhana Kumari .....
 </div>
 
