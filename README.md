@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Aradhana ...</h2>
+# 💫 About Me:
+👋 Hi, I'm Aradhana Kumari — a Computer Engineering student and passionate MERN stack developer.<br>💡 Currently learning deep learning & system-level programming.<br>🛠️ Currently working on a full-stack web project and open-source contributions.<br>💬 Ask me about React, MongoDB, or anything web dev!<br>🎉 Fun fact: I love playing UNO — especially when I get to drop that perfect Reverse card 😎<br>🚀 Always eager to learn, build, and grow!
 
 ###
 
@@ -13,8 +14,7 @@
 </div>
 
 ###
-# 💫 About Me:
-👋 Hi, I'm Aradhana Kumari — a Computer Engineering student and passionate MERN stack developer.<br>💡 Currently learning deep learning & system-level programming.<br>🛠️ Currently working on a full-stack web project and open-source contributions.<br>💬 Ask me about React, MongoDB, or anything web dev!<br>🎉 Fun fact: I love playing UNO — especially when I get to drop that perfect Reverse card 😎<br>🚀 Always eager to learn, build, and grow!
+
 
 
 ## 🌐 Socials:
