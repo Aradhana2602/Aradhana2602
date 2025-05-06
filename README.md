@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 50px;">
+<div align="center"  style="font-size: 50px; color: #FFFFFF; text-shadow: 4px 4px 30px #C3D7F8, 0 0 50px #C3D7F8, 0 0 70px #7781B2; font-family: 'Black Ops One', sans-serif;">
 👋 Hi, I'm Aradhana Kumari .....
 </div>
 
